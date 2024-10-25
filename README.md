@@ -23,12 +23,15 @@ Questo progetto gestisce startup, assegna incentivi basati su criteri specifici,
 ## Come Avviare
 
 1. **Clona il repository**:  
+   ```bash
     git clone https://github.com/tuo-progetto/startup-incentivi.git
 
 2. **Installare le dipendenze**:  
+   ```bash
     npm install
 
 3. **Compila ts automaticamente**:  
+   ```bash
     tsc --watch
 
 4. **Comincia a testare** 
